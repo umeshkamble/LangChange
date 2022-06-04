@@ -1,4 +1,4 @@
-# Language Change smaple
+# Location smaple
 Language change English to Arabic and Arabic to English using MAUI .Net
 
 <TABLE BORDER=1 CELLPSACING=3 CELLPADDING=%3>
