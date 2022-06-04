@@ -1,5 +1,5 @@
 # LangChange
-Language change using MAUI .Net
+Language change English to Arabic and Arabic to English using MAUI .Net
 
 
 ![Screenshot_1654356995](https://user-images.githubusercontent.com/5494166/172012935-c4526320-de8d-4fe6-a25e-5a367f7d5182.png)
